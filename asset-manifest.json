@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lamorestudio/static/css/main.0b7508fd.chunk.css",
+    "main.js": "/lamorestudio/static/js/main.1381aede.chunk.js",
+    "main.js.map": "/lamorestudio/static/js/main.1381aede.chunk.js.map",
+    "runtime-main.js": "/lamorestudio/static/js/runtime-main.a3c299f7.js",
+    "runtime-main.js.map": "/lamorestudio/static/js/runtime-main.a3c299f7.js.map",
+    "static/js/2.849a0fda.chunk.js": "/lamorestudio/static/js/2.849a0fda.chunk.js",
+    "static/js/2.849a0fda.chunk.js.map": "/lamorestudio/static/js/2.849a0fda.chunk.js.map",
+    "index.html": "/lamorestudio/index.html",
+    "static/css/main.0b7508fd.chunk.css.map": "/lamorestudio/static/css/main.0b7508fd.chunk.css.map",
+    "static/js/2.849a0fda.chunk.js.LICENSE.txt": "/lamorestudio/static/js/2.849a0fda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3c299f7.js",
+    "static/js/2.849a0fda.chunk.js",
+    "static/css/main.0b7508fd.chunk.css",
+    "static/js/main.1381aede.chunk.js"
+  ]
+}
